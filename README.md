@@ -1,62 +1,84 @@
 <div align="center">
 
-# Hi, I'm Popy Traoré 👋
+# Popy Traoré
 
 ### Tech Entrepreneur · Product Builder · Digital Consultant
 
-**Building practical digital products and infrastructure for African businesses.**
+**Building digital products and infrastructure for African businesses.**
 
-[![Website](https://img.shields.io/badge/Website-popytech.com-111111?style=for-the-badge)](https://popytech.com)
+[![POPY TECH](https://img.shields.io/badge/POPY_TECH-popytech.com-111111?style=for-the-badge)](https://popytech.com)
 [![Training](https://img.shields.io/badge/Training-popytech.online-111111?style=for-the-badge)](https://popytech.online)
 
-📍 Guinea 🇬🇳 · Building for Africa 🌍
+**Guinea 🇬🇳 → Africa 🌍**
 
 </div>
 
 ---
 
-## About me
+## About
 
-I'm a tech entrepreneur, product builder and digital consultant working at the intersection of **technology, design, business and digital transformation**.
+I'm **Popy Traoré**, founder of **POPY TECH** and builder of **GNAKRYGROUP**.
 
-I founded **POPY TECH**, where we design digital experiences, build web products, support businesses in their digital transformation and train the next generation of digital talent.
+My work sits at the intersection of **product strategy, software engineering, SaaS, fintech, design and digital transformation**. I focus on turning real operational problems into practical digital products built for African markets.
 
-I'm also building the **GNAKRY ecosystem** — a portfolio of digital products focused on the infrastructure African businesses need to operate, communicate, collect payments and grow.
-
-My approach is simple: **start from a real problem, design the right product, ship fast, improve with users.**
+> **Build useful things. Build for scale. Build for Africa.**
 
 ---
 
-## What I'm building
+# GNAKRYGROUP
 
-| Product | Focus | Public overview |
+### Digital infrastructure for African businesses
+
+GNAKRYGROUP is an ecosystem of specialized technology products designed to progressively work together across **AI, engineering, payments, messaging, cards, commerce, business operations and trust**.
+
+**All operational GNAKRYGROUP repositories are private on GitHub by design.** The public pages below document product vision and technical direction without exposing proprietary implementation.
+
+[**Explore the full GNAKRYGROUP architecture →**](./products/GNAKRYGROUP.md)
+
+| Product | Product layer | Public brief |
 |---|---|---|
-| **POPY TECH** | Digital products, design, consulting & training | [popytech.com](https://popytech.com) |
-| **GNAKRYPAY** | Payment infrastructure and business payment experiences | [View product →](./products/GNAKRYPAY.md) |
-| **GNAKRYSMS** | SMS infrastructure for marketing, OTP, alerts and APIs | [View product →](./products/GNAKRYSMS.md) |
-| **GNAKRYCARD** | Digital card and online payment experiences | [View product →](./products/GNAKRYCARD.md) |
-| **TÉMOIN** | Remote field verification and monitoring for the African diaspora | [View product →](./products/TEMOIN.md) |
-| **The Digital Forum** | Digital entrepreneurship, masterclasses and ecosystem building | [View repository →](https://github.com/popytech/thedigitalforum) |
+| **GNAKRYAI** | Applied AI & intelligent workflows | [Explore →](./products/GNAKRYAI.md) |
+| **GNAKRYDEV** | Web, mobile, SaaS, MVP & API engineering | [Explore →](./products/GNAKRYDEV.md) |
+| **GNAKRYPAY** | Payment infrastructure & aggregation | [Explore →](./products/GNAKRYPAY.md) |
+| **GNAKRYSMS** | SMS, OTP, alerts, campaigns & messaging APIs | [Explore →](./products/GNAKRYSMS.md) |
+| **GNAKRYCARD** | Virtual cards & digital payment experiences | [Explore →](./products/GNAKRYCARD.md) |
+| **GNAKRY BUSINESS** | CRM, operations & management workflows | [Explore →](./products/GNAKRYBUSINESS.md) |
+| **GNAKRY SHOP** | E-commerce & merchant infrastructure | [Explore →](./products/GNAKRYSHOP.md) |
+| **GNAKRY TRUST** | Verification & digital trust infrastructure | [Explore →](./products/GNAKRYTRUST.md) |
 
-> Long-term vision: **build digital infrastructure that helps African businesses move faster.**
+---
+
+## Other products & initiatives
+
+### 📍 [TÉMOIN](./products/TEMOIN.md)
+Remote field verification in Guinea: missions, timestamped/geolocated evidence, structured reports, client/agent/admin workflows and a dedicated field-agent mobile application. The production repository is private.
+
+### 🎤 [The Digital Forum](https://github.com/popytech/thedigitalforum)
+A digital entrepreneurship and event-operations platform built with **Next.js, TypeScript and Supabase**. It includes registration, confirmation, participant check-in, administration, editions, speakers, sponsors, QR/PDF workflows and communication integrations.
 
 ---
 
 ## Tech & product stack
 
-### Frontend
+### Product engineering
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Backend & data
+### Backend, data & infrastructure
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Product & delivery
+### Design & delivery
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -64,61 +86,48 @@ My approach is simple: **start from a real problem, design the right product, sh
 
 ---
 
-## Featured products
+## Public engineering work
 
-### 💳 [GNAKRYPAY](./products/GNAKRYPAY.md)
-Payment infrastructure designed for African businesses.
+### [The Digital Forum](https://github.com/popytech/thedigitalforum)
+**Full product platform** — event website, registration, confirmation, check-in, admin, API, Supabase, PDF/QR workflows and messaging integrations.
 
-### 📩 [GNAKRYSMS](./products/GNAKRYSMS.md)
-Business messaging infrastructure for OTP, alerts, campaigns and APIs.
-
-### 💳 [GNAKRYCARD](./products/GNAKRYCARD.md)
-Digital card experiences for Africa's digital economy.
-
-### 📍 [TÉMOIN](./products/TEMOIN.md)
-Structured field verification and remote monitoring for the African diaspora.
+### [Group Coyah Media](https://github.com/popytech/coyahgrouptv)
+**Frontend media project** — lightweight HTML/CSS/JavaScript implementation for a digital radio/television concept.
 
 ---
 
-## Selected public work
+## Client delivery archive
 
-### 🎤 [The Digital Forum](https://github.com/popytech/thedigitalforum)
-Digital entrepreneurship and masterclass platform built with a modern web stack.
-
-### 📺 [Coyah Group TV](https://github.com/popytech/coyahgrouptv)
-A digital media project focused on local content and online publishing.
-
-### 🏢 [Koyama Plus](https://github.com/popytech/koyamaplus-sarlu2026)
-Corporate web presence and digital experience project.
+### [KOYAMA PLUS](https://github.com/popytech/koyamaplus-sarlu2026)
+Public deployment artifact for a commercial catalogue and professional-services website. This repository contains compiled delivery assets and is intentionally separated from my core product engineering work.
 
 ---
 
-## How I work
+## How I build
 
-- **Product-first** — technology should solve a measurable problem.
-- **Execution-driven** — prototypes matter more than endless planning.
-- **Africa-focused** — products must fit local realities, not copy foreign assumptions.
-- **Design + engineering** — strong products need both usability and technical reliability.
-- **Build, measure, improve** — every release is a learning cycle.
+- **Problem-first** — understand the operational pain before choosing technology.
+- **Product-driven** — connect UX, business logic and engineering.
+- **Execution-focused** — ship usable versions, then iterate from reality.
+- **Private where it matters** — protect proprietary code, integrations and production architecture.
+- **Africa-focused** — design around local infrastructure, payments, businesses and users.
 
 ---
 
 ## Current focus
 
-Right now, I'm focused on:
-
-- Building and structuring the **GNAKRY** product ecosystem.
-- Shipping SaaS, fintech and business infrastructure products.
-- Growing **POPY TECH** as a technology, design and training company.
-- Creating more opportunities for African creators, developers and entrepreneurs.
+- Building **GNAKRYGROUP** as a coherent technology ecosystem.
+- Shipping fintech, SaaS, messaging and business infrastructure products.
+- Growing **GNAKRYDEV** as the engineering studio of the ecosystem.
+- Growing **POPY TECH** across technology, design, consulting and training.
+- Building products from Guinea with regional African ambition.
 
 ---
 
-## Let's connect
+## Connect
 
-I'm open to conversations around **technology, product partnerships, APIs, fintech, SaaS, digital transformation, training and African innovation**.
+I'm open to **product partnerships, APIs, fintech infrastructure, SaaS, software engineering, digital transformation and African technology ventures**.
 
-🌐 **Website:** [popytech.com](https://popytech.com)  
+🌐 **POPY TECH:** [popytech.com](https://popytech.com)  
 🎓 **Training:** [popytech.online](https://popytech.online)  
 💻 **GitHub:** [@popytech](https://github.com/popytech)
 
@@ -126,6 +135,6 @@ I'm open to conversations around **technology, product partnerships, APIs, finte
 
 <div align="center">
 
-### Build useful things. Build for scale. Build for Africa. 🌍
+### From Guinea. Built for Africa. 🌍
 
 </div>
