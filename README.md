@@ -29,14 +29,14 @@ My approach is simple: **start from a real problem, design the right product, sh
 
 ## What I'm building
 
-| Product | Focus |
-|---|---|
-| **POPY TECH** | Digital products, design, consulting & training |
-| **GNAKRYPAY** | Payment aggregation and business payment experiences |
-| **GNAKRYSMS** | SMS infrastructure for marketing, OTP, alerts and APIs |
-| **GNAKRYCARD** | Card-based digital payment experiences |
-| **TÉMOIN** | Remote field verification and monitoring for the African diaspora |
-| **The Digital Forum** | Digital entrepreneurship, masterclasses and ecosystem building |
+| Product | Focus | Public overview |
+|---|---|---|
+| **POPY TECH** | Digital products, design, consulting & training | [popytech.com](https://popytech.com) |
+| **GNAKRYPAY** | Payment infrastructure and business payment experiences | [View product →](./products/GNAKRYPAY.md) |
+| **GNAKRYSMS** | SMS infrastructure for marketing, OTP, alerts and APIs | [View product →](./products/GNAKRYSMS.md) |
+| **GNAKRYCARD** | Digital card and online payment experiences | [View product →](./products/GNAKRYCARD.md) |
+| **TÉMOIN** | Remote field verification and monitoring for the African diaspora | [View product →](./products/TEMOIN.md) |
+| **The Digital Forum** | Digital entrepreneurship, masterclasses and ecosystem building | [View repository →](https://github.com/popytech/thedigitalforum) |
 
 > Long-term vision: **build digital infrastructure that helps African businesses move faster.**
 
@@ -61,6 +61,22 @@ My approach is simple: **start from a real problem, design the right product, sh
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Featured products
+
+### 💳 [GNAKRYPAY](./products/GNAKRYPAY.md)
+Payment infrastructure designed for African businesses.
+
+### 📩 [GNAKRYSMS](./products/GNAKRYSMS.md)
+Business messaging infrastructure for OTP, alerts, campaigns and APIs.
+
+### 💳 [GNAKRYCARD](./products/GNAKRYCARD.md)
+Digital card experiences for Africa's digital economy.
+
+### 📍 [TÉMOIN](./products/TEMOIN.md)
+Structured field verification and remote monitoring for the African diaspora.
 
 ---
 
