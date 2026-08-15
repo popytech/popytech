@@ -1,57 +1,98 @@
+<div align="center">
+
 # TÉMOIN
 
-> Your eyes on the ground.
+### Your eyes on the ground in Guinea
 
-TÉMOIN is a field verification and remote monitoring service built for people who need reliable visibility over assets, projects and situations in Guinea while living elsewhere.
+**Field Verification · Geolocated Evidence · Mission Reports · Agent App**
 
-## Product vision
+[temoin.africa](https://temoin.africa)
 
-For diaspora communities, remote ownership and investment often depend on informal updates. TÉMOIN is designed to replace uncertainty with structured, documented field evidence.
+</div>
+
+---
+
+## Overview
+
+**TÉMOIN** is a remote field-verification service for diaspora clients, property owners, investors and organizations that need reliable evidence from the ground in Guinea.
+
+Instead of informal updates, TÉMOIN structures each mission around documented evidence, traceability and a secure digital workflow.
+
+The operational repository is **private on GitHub**.
+
+---
+
+## Product architecture
+
+TÉMOIN currently combines two product surfaces:
+
+### Web platform
+
+A Next.js application supporting:
+
+- Public service presentation
+- Client workspace
+- Field-agent workspace
+- Administrative workspace
+- Mission workflows
+- Secure report delivery
+- Supabase-backed application data
+- PDF/report-oriented delivery rules
+
+### Field-agent application
+
+A Flutter mobile application supporting field execution on Android/iOS, including:
+
+- Evidence capture
+- Local/offline storage
+- Deferred synchronization
+- Idempotent upload logic to prevent duplicated mission evidence
+
+---
+
+## Mission evidence
+
+Depending on mission scope, field delivery can include:
+
+- Timestamped photographs
+- Geolocated evidence
+- Video
+- Written observations
+- Structured mission reports
+- Secure client follow-up
+
+---
 
 ## Core use cases
 
 - Construction-site monitoring
 - Property and land verification
 - Investment follow-up
-- Field inspections
-- Photo and video evidence
-- Location-aware reporting
-- Remote family or asset checks when appropriate
+- Remote inspections
+- Asset verification
+- Field documentation for diaspora clients
 
-## Service experience
-
-A mission can include:
-
-- Dated field photos
-- Geolocated evidence
-- Short video reports
-- Written mission summaries
-- Structured follow-up through the TÉMOIN platform
-
-## Target users
-
-- African diaspora
-- Property owners
-- Investors
-- Families managing assets remotely
-- Businesses requiring field verification
+---
 
 ## Product principles
 
 - Evidence over assumptions
-- Traceability
-- Clear documentation
-- Fast field execution
-- Trust through verifiable reporting
+- Traceability by design
+- Structured deliverables
+- Secure client access
+- Offline-capable field execution
+- Mission consistency between agent, admin and client surfaces
+
+---
 
 ## Status
 
-🚀 **Product and field operations in development and deployment.**
+**Active product and field-operations development**
 
-The production application, internal workflows and operational data remain private. This page is a public product overview only.
+---
 
-## Website
+## Ownership
 
-[TÉMOIN — temoin.africa](https://temoin.africa)
+TÉMOIN is a **POPY TECH** product/service.
 
-Built by [Popy Traoré](https://github.com/popytech) / [POPY TECH](https://popytech.com).
+[← Back to Popy Traoré's profile](../README.md)
