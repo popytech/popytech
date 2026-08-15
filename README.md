@@ -50,8 +50,8 @@ GNAKRYGROUP is an ecosystem of specialized technology products designed to progr
 
 ## Other products & initiatives
 
-### 📍 [TÉMOIN](./products/TEMOIN.md)
-Remote field verification in Guinea: missions, timestamped/geolocated evidence, structured reports, client/agent/admin workflows and a dedicated field-agent mobile application. The production repository is private.
+### 📍 [TÉMOIN](https://temoin.africa) — **LIVE**
+Remote field verification in Guinea: missions, timestamped/geolocated evidence, structured reports, client/agent/admin workflows and a dedicated field-agent mobile application. **TÉMOIN is live and operational at [temoin.africa](https://temoin.africa)**. Its production repository remains private. [Technical overview →](./products/TEMOIN.md)
 
 ### 🎤 [The Digital Forum](https://github.com/popytech/thedigitalforum)
 A digital entrepreneurship and event-operations platform built with **Next.js, TypeScript and Supabase**. It includes registration, confirmation, participant check-in, administration, editions, speakers, sponsors, QR/PDF workflows and communication integrations.
@@ -118,6 +118,7 @@ Public deployment artifact for a commercial catalogue and professional-services 
 - Building **GNAKRYGROUP** as a coherent technology ecosystem.
 - Shipping fintech, SaaS, messaging and business infrastructure products.
 - Growing **GNAKRYDEV** as the engineering studio of the ecosystem.
+- Operating and growing **TÉMOIN**, live at [temoin.africa](https://temoin.africa).
 - Growing **POPY TECH** across technology, design, consulting and training.
 - Building products from Guinea with regional African ambition.
 
@@ -128,6 +129,7 @@ Public deployment artifact for a commercial catalogue and professional-services 
 I'm open to **product partnerships, APIs, fintech infrastructure, SaaS, software engineering, digital transformation and African technology ventures**.
 
 🌐 **POPY TECH:** [popytech.com](https://popytech.com)  
+📍 **TÉMOIN:** [temoin.africa](https://temoin.africa)  
 🎓 **Training:** [popytech.online](https://popytech.online)  
 💻 **GitHub:** [@popytech](https://github.com/popytech)
 
