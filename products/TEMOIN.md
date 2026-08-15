@@ -6,7 +6,8 @@
 
 **Field Verification · Geolocated Evidence · Mission Reports · Agent App**
 
-[temoin.africa](https://temoin.africa)
+[![Live](https://img.shields.io/badge/STATUS-LIVE-2ea44f?style=for-the-badge)](https://temoin.africa)
+[![Website](https://img.shields.io/badge/WEBSITE-temoin.africa-111111?style=for-the-badge)](https://temoin.africa)
 
 </div>
 
@@ -14,17 +15,19 @@
 
 ## Overview
 
-**TÉMOIN** is a remote field-verification service for diaspora clients, property owners, investors and organizations that need reliable evidence from the ground in Guinea.
+**TÉMOIN** is a live remote field-verification service for diaspora clients, property owners, investors and organizations that need reliable evidence from the ground in Guinea.
 
 Instead of informal updates, TÉMOIN structures each mission around documented evidence, traceability and a secure digital workflow.
 
-The operational repository is **private on GitHub**.
+🌐 **Live platform:** [temoin.africa](https://temoin.africa)
+
+The operational repository remains **private on GitHub**.
 
 ---
 
 ## Product architecture
 
-TÉMOIN currently combines two product surfaces:
+TÉMOIN combines two product surfaces:
 
 ### Web platform
 
@@ -87,7 +90,11 @@ Depending on mission scope, field delivery can include:
 
 ## Status
 
-**Active product and field-operations development**
+🚀 **LIVE — active service, platform and field operations**
+
+TÉMOIN is publicly available at **[temoin.africa](https://temoin.africa)** and is currently being actively promoted and operated.
+
+The product continues to evolve while remaining available to real users and missions.
 
 ---
 
