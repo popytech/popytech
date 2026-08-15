@@ -1,47 +1,75 @@
+<div align="center">
+
 # GNAKRYCARD
 
-> Digital card experiences for the next generation of African commerce.
+### Virtual cards for Guinea's digital economy
 
-GNAKRYCARD is a fintech product in the GNAKRY ecosystem focused on modern card-based payment experiences for individuals, digital workers and online businesses.
+**USD Virtual Cards · Mobile Money · KYC · Transactions · Card Controls**
 
-## Product vision
+</div>
 
-Access to flexible digital payment tools remains fragmented across many African markets. GNAKRYCARD is being designed to make card-based online payments easier to access, manage and understand through a modern digital experience.
+---
 
-## Core use cases
+## Overview
 
-- Digital card management
-- Online payments
-- Card controls and usage visibility
+**GNAKRYCARD** is the virtual-card product of GNAKRYGROUP, designed to give users in Guinea a simpler path to international online payments through digital cards funded from local payment rails.
+
+The operational repository is **private on GitHub**. This public brief communicates product scope without exposing provider credentials, card-processing implementation or sensitive financial infrastructure.
+
+---
+
+## Current MVP
+
+The active product is structured as a frontend/backend monorepo and includes:
+
+- OTP-based authentication
+- Virtual-card lifecycle workflows
+- Recharge flows
 - Transaction history
-- Business and digital-work payment workflows
-- Integration with the broader GNAKRY payment ecosystem
+- KYC processes
+- Card and account dashboards
+- Mobile Money-oriented funding flows
+- Mocked/sandboxed partner integrations while production agreements are pending
 
-## Target users
+---
 
-- Digital entrepreneurs
-- Freelancers
-- Online shoppers
-- Startups
-- SMEs
-- Digital-first professionals
+## Technology direction
+
+The current implementation uses **Next.js 16, TypeScript, PostgreSQL, Drizzle ORM, Tailwind CSS and modern component tooling**.
+
+Financial-provider integrations remain simulated or sandboxed until the required commercial and technical agreements are active.
+
+---
+
+## Product use cases
+
+- Online subscriptions
+- Digital advertising spend
+- E-commerce purchases
+- SaaS tools
+- International online services
+- Digital-work and business expenses
+
+---
 
 ## Product principles
 
-- Simple user experience
-- Security-first product design
-- Transparent controls
-- Local-market relevance
-- Interoperability with the GNAKRY ecosystem
+- Local funding → global online usage
+- Transparent card controls
+- Security and KYC by design
+- Clear transaction visibility
+- Progressive partner integration
+
+---
 
 ## Status
 
-🚧 **In active product development.**
+**Active MVP development / financial-partner integration phase**
 
-The production codebase, financial integrations and operational details remain private. This page is a public product overview only.
+---
 
 ## Ecosystem
 
-GNAKRYCARD is part of **GNAKRY**, an ecosystem building digital infrastructure for African businesses and digital users.
+GNAKRYCARD is part of [**GNAKRYGROUP**](./GNAKRYGROUP.md).
 
-Built by [Popy Traoré](https://github.com/popytech) / [POPY TECH](https://popytech.com).
+[← Back to Popy Traoré's profile](../README.md)
