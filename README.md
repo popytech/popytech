@@ -109,6 +109,13 @@ Plateforme événementielle complète : inscription, confirmation, check-in, adm
 
 > A reusable public starter designed to help developers ship production-minded SaaS products faster.
 
+### 📡 [SMS Gateway Simulator](https://github.com/popytech/sms-gateway-simulator)
+**Open-source messaging infrastructure simulator** — SMS lifecycle · OTP · AES-256-GCM · HMAC-SHA256 webhooks · OpenAPI · Docker · GitHub Actions.
+
+**→ [Repository](https://github.com/popytech/sms-gateway-simulator)**
+
+> A stateless, serverless-friendly sandbox for testing SMS, OTP, provider-failure and webhook integration flows without live telecom credentials.
+
 <table>
 <tr>
 <td width="50%" valign="top">
