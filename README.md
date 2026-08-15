@@ -102,6 +102,11 @@ Plateforme événementielle complète : inscription, confirmation, check-in, adm
 
 ## 📌 Public engineering work
 
+### 🌍 [Africa SaaS Starter](https://github.com/popytech/africa-saas-starter)
+**Open-source SaaS foundation** — Next.js 16 · React 19 · TypeScript · Supabase Auth · PostgreSQL/RLS · Multi-tenancy · Roles · Docker · GitHub Actions.
+
+> A reusable public starter designed to help developers ship production-minded SaaS products faster.
+
 <table>
 <tr>
 <td width="50%" valign="top">
