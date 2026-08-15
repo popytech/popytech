@@ -1,48 +1,72 @@
+<div align="center">
+
 # GNAKRYSMS
 
-> SMS infrastructure for African businesses.
+### Professional messaging infrastructure for African businesses
 
-GNAKRYSMS is a communications platform in the GNAKRY ecosystem built to help businesses send transactional and marketing SMS through a simple dashboard and developer-friendly API.
+**SMS · OTP · Campaigns · Sender IDs · Delivery workflows · APIs**
 
-## Product vision
+</div>
 
-Businesses need dependable messaging infrastructure for customer communication, authentication and operational alerts. GNAKRYSMS is being built as a local-first layer for high-volume business messaging.
+---
 
-## Core use cases
+## Overview
 
-- OTP and verification codes
+**GNAKRYSMS** is the business-messaging layer of GNAKRYGROUP, built to help organizations manage professional SMS communication through structured campaigns, transactional workflows and developer integrations.
+
+The operational repository and telecom integration details are **private on GitHub**.
+
+---
+
+## Current MVP
+
+The current product includes:
+
+- Authentication and account management
+- Contacts and contact groups
+- Sender ID workflows
+- SMS campaigns
+- Credit management
+- Administrative back office
+- Asynchronous SMS processing
+- SMPP simulation for controlled testing
+- Architecture for operator-specific adapters
+
+---
+
+## Technology direction
+
+The current application is built around **Next.js 16, React 19, TypeScript, PostgreSQL, Redis and BullMQ**, with SMPP-oriented provider adapters and containerized development workflows.
+
+Direct production connections remain gated behind contracts, production credentials and operator validation.
+
+---
+
+## Product use cases
+
+- OTP and authentication messages
 - Transactional notifications
-- Marketing campaigns
 - Service alerts
-- Bulk SMS
-- API-based messaging
-- Delivery tracking and reporting
+- Marketing campaigns
+- Bulk business messaging
+- Developer/API messaging
 
-## Target users
+---
 
-- Fintechs
-- SaaS platforms
-- E-commerce businesses
-- Schools and institutions
-- SMEs
-- Developers
+## Roadmap direction
 
-## Product principles
+Future product layers include broader public API capabilities, additional communication channels and mobile experiences as the core SMS infrastructure reaches production maturity.
 
-- Reliable delivery
-- Simple API integration
-- Clear usage reporting
-- Scalable sending workflows
-- Built for African business realities
+---
 
 ## Status
 
-🚧 **In active development and integration.**
+**Active development / telecom integration phase**
 
-The production codebase and telecom/provider integrations remain private. This page is a public product overview only.
+---
 
 ## Ecosystem
 
-GNAKRYSMS is part of **GNAKRY**, an ecosystem building digital infrastructure for African businesses.
+GNAKRYSMS is part of [**GNAKRYGROUP**](./GNAKRYGROUP.md).
 
-Built by [Popy Traoré](https://github.com/popytech) / [POPY TECH](https://popytech.com).
+[← Back to Popy Traoré's profile](../README.md)
