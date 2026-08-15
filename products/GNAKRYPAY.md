@@ -1,46 +1,67 @@
+<div align="center">
+
 # GNAKRYPAY
 
-> Payment infrastructure designed for African businesses.
+### Payment infrastructure for African businesses
 
-GNAKRYPAY is a fintech product in the GNAKRY ecosystem focused on simplifying how businesses accept, manage and integrate digital payments.
+**Merchant APIs · Payment Links · Transactions · Payouts · Webhooks · KYC**
 
-## Product vision
+</div>
 
-African businesses often need to connect multiple payment channels, providers and operational workflows. GNAKRYPAY aims to provide a unified payment layer that makes these integrations easier to manage from one product experience.
+---
 
-## Core use cases
+## Overview
 
-- Payment collection for businesses
-- Unified payment experience across supported channels
-- Merchant payment dashboards
-- API-based payment integrations
-- Transaction monitoring and reporting
-- Payment links and digital checkout experiences
+**GNAKRYPAY** is the payment-infrastructure layer of GNAKRYGROUP, designed to give businesses and digital products a structured way to collect, track and integrate local digital payments.
 
-## Target users
+The operational repository is **private on GitHub**. This page documents the product direction without exposing partner credentials, internal business logic or production infrastructure.
 
-- SMEs and startups
-- SaaS platforms
-- E-commerce businesses
-- Digital agencies
-- Developers integrating payments into applications
+---
+
+## Current product scope
+
+The current platform models and supports:
+
+- Merchant accounts and API credentials
+- Payment transactions and status tracking
+- Shareable payment links
+- Merchant payouts
+- Webhook delivery and logging
+- Wallet balances
+- KYC workflows
+- Subscription and billing concepts
+- Audit logging
+- API-oriented merchant integrations
+
+---
+
+## Technology direction
+
+The current application uses a modern TypeScript stack built around **Next.js 16, React 19, PostgreSQL, Prisma, NextAuth, Zod and OpenAPI/Swagger tooling**.
+
+Partner integrations are kept sandboxed or disabled until contractual, regulatory and technical production access is validated.
+
+---
 
 ## Product principles
 
-- Local-market first
+- Local-payment infrastructure first
+- Strong transaction visibility
 - Developer-friendly integrations
-- Reliable transaction visibility
-- Simple merchant experience
-- Scalable infrastructure
+- Secure merchant access
+- Clear separation between sandbox and production
+- Infrastructure that can serve other GNAKRYGROUP products
+
+---
 
 ## Status
 
-🚧 **In active development.**
+**Active development / partner integration phase**
 
-The production codebase is private. This page is a public product overview and does not expose proprietary implementation details, credentials or provider integrations.
+---
 
 ## Ecosystem
 
-GNAKRYPAY is part of **GNAKRY**, an ecosystem building digital infrastructure for African businesses.
+GNAKRYPAY is part of [**GNAKRYGROUP**](./GNAKRYGROUP.md).
 
-Built by [Popy Traoré](https://github.com/popytech) / [POPY TECH](https://popytech.com).
+[← Back to Popy Traoré's profile](../README.md)
