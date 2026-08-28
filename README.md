@@ -116,6 +116,13 @@ Plateforme événementielle complète : inscription, confirmation, check-in, adm
 
 > A stateless, serverless-friendly sandbox for testing SMS, OTP, provider-failure and webhook integration flows without live telecom credentials.
 
+### 📱 [Flutter Offline Sync Demo](https://github.com/popytech/flutter-offline-sync-demo)
+**Offline-first mobile architecture reference** — Flutter · SQLite · outbox queue · connectivity recovery · exponential retry · idempotency · deferred attachments · GitHub Actions.
+
+**→ [Repository](https://github.com/popytech/flutter-offline-sync-demo)**
+
+> A reusable Flutter pattern for mobile products that must keep working reliably when connectivity is unstable or unavailable.
+
 <table>
 <tr>
 <td width="50%" valign="top">
