@@ -123,6 +123,13 @@ Plateforme événementielle complète : inscription, confirmation, check-in, adm
 
 > A reusable Flutter pattern for mobile products that must keep working reliably when connectivity is unstable or unavailable.
 
+### 🪝 [Webhook Inspector](https://github.com/popytech/webhook-inspector)
+**Webhook debugging & integration sandbox** — Next.js 16 · TypeScript · temporary inboxes · raw/JSON inspection · header redaction · HMAC verification · cURL export · allowlisted replay · Docker · GitHub Actions.
+
+**→ [Repository](https://github.com/popytech/webhook-inspector)**
+
+> A compact developer tool for capturing and debugging webhook requests while keeping replay explicitly constrained and security-conscious.
+
 <table>
 <tr>
 <td width="50%" valign="top">
